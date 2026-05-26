@@ -1,0 +1,459 @@
+2025-02-12 11:52:01.569  INFO 14332 --- [restartedMain] c.k.m.MovieCollectionApplication         : Starting MovieCollectionApplication using Java 21.0.4 on LTIN562370 with PID 14332 (C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master\target\classes started by 2376738 in C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master)
+2025-02-12 11:52:01.582  INFO 14332 --- [restartedMain] c.k.m.MovieCollectionApplication         : No active profile set, falling back to default profiles: default
+2025-02-12 11:52:01.688  INFO 14332 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-02-12 11:52:01.689  INFO 14332 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-02-12 11:52:02.426  INFO 25316 --- [restartedMain] c.k.m.MovieCollectionApplication         : Starting MovieCollectionApplication using Java 21.0.4 on LTIN562370 with PID 25316 (C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master\target\classes started by 2376738 in C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master)
+2025-02-12 11:52:02.436  INFO 25316 --- [restartedMain] c.k.m.MovieCollectionApplication         : No active profile set, falling back to default profiles: default
+2025-02-12 11:52:02.630  INFO 25316 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-02-12 11:52:02.631  INFO 25316 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-02-12 11:52:04.479  INFO 14332 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 11:52:04.484  INFO 14332 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-12 11:52:04.519  INFO 14332 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 24 ms. Found 0 JDBC repository interfaces.
+2025-02-12 11:52:04.533  INFO 14332 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 11:52:04.536  INFO 14332 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-12 11:52:04.550  INFO 14332 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2025-02-12 11:52:04.861  INFO 25316 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 11:52:04.864  INFO 25316 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-12 11:52:04.893  INFO 25316 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 22 ms. Found 0 JDBC repository interfaces.
+2025-02-12 11:52:04.911  INFO 25316 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 11:52:04.914  INFO 25316 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-12 11:52:04.928  INFO 25316 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2025-02-12 11:52:05.661  INFO 14332 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-02-12 11:52:05.679  INFO 14332 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-12 11:52:05.680  INFO 14332 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2025-02-12 11:52:05.839  INFO 14332 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-12 11:52:05.839  INFO 14332 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4148 ms
+2025-02-12 11:52:05.847  INFO 25316 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-02-12 11:52:05.863  INFO 25316 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-12 11:52:05.864  INFO 25316 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2025-02-12 11:52:06.032  INFO 25316 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-12 11:52:06.033  INFO 25316 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3398 ms
+2025-02-12 11:52:06.332  INFO 14332 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-12 11:52:06.391  INFO 25316 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-12 11:52:06.454  INFO 14332 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2025-02-12 11:52:06.462  INFO 25316 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2025-02-12 11:52:06.803  INFO 25316 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-02-12 11:52:06.804  INFO 14332 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-02-12 11:52:07.047  INFO 14332 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-02-12 11:52:07.047  INFO 25316 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-02-12 11:52:07.381  INFO 25316 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-02-12 11:52:07.385  INFO 14332 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-02-12 11:52:07.420  INFO 14332 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2025-02-12 11:52:07.421  INFO 25316 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2025-02-12 11:52:08.897  INFO 14332 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-02-12 11:52:08.902  INFO 25316 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-02-12 11:52:08.916  INFO 14332 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 11:52:08.923  INFO 25316 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 11:52:08.977  INFO 14332 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-02-12 11:52:08.983  WARN 25316 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-02-12 11:52:08.993  INFO 14332 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 7d48894e-c679-4226-a511-0abeee01484e
+
+2025-02-12 11:52:08.999  INFO 25316 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: c7e9af35-a748-49e9-8523-410251e86e8f
+
+2025-02-12 11:52:09.489  INFO 14332 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3b1d43f9, org.springframework.security.web.context.SecurityContextPersistenceFilter@1fc8a997, org.springframework.security.web.header.HeaderWriterFilter@34f31b21, org.springframework.security.web.csrf.CsrfFilter@516e35d6, org.springframework.security.web.authentication.logout.LogoutFilter@37c6da92, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@1bc43e7b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4b440db, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@468ce650, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@33caaf18, org.springframework.security.web.session.SessionManagementFilter@31bdc847, org.springframework.security.web.access.ExceptionTranslationFilter@2de3c8ac, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@61271236]
+2025-02-12 11:52:09.491  INFO 25316 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@471ef7e5, org.springframework.security.web.context.SecurityContextPersistenceFilter@2cfcaf7f, org.springframework.security.web.header.HeaderWriterFilter@445316f1, org.springframework.security.web.csrf.CsrfFilter@7936b063, org.springframework.security.web.authentication.logout.LogoutFilter@599d7309, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@1ae3eea7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4faa6003, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@73e59f44, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3e86e75b, org.springframework.security.web.session.SessionManagementFilter@14220c56, org.springframework.security.web.access.ExceptionTranslationFilter@4887de62, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@321dc0b1]
+2025-02-12 11:52:09.583  WARN 25316 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-12 11:52:09.595  WARN 14332 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-12 11:52:09.892  INFO 14332 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-02-12 11:52:09.894  INFO 25316 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-02-12 11:52:10.042  INFO 14332 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2025-02-12 11:52:10.046  INFO 25316 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2025-02-12 11:52:10.910  INFO 14332 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2025-02-12 11:52:10.924  INFO 25316 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2025-02-12 11:52:11.037  WARN 25316 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2025-02-12 11:52:11.042  INFO 25316 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-02-12 11:52:11.045  INFO 25316 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 11:52:11.054  INFO 25316 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-02-12 11:52:11.056  INFO 14332 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-02-12 11:52:11.069  INFO 25316 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-02-12 11:52:11.076  INFO 25316 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2025-02-12 11:52:11.083  INFO 14332 --- [restartedMain] c.k.m.MovieCollectionApplication         : Started MovieCollectionApplication in 10.095 seconds (JVM running for 11.369)
+2025-02-12 11:52:11.105  INFO 25316 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-02-12 11:52:11.144 ERROR 25316 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-02-12 11:52:12.165  INFO 14332 --- [RMI TCP Connection(4)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-12 11:52:12.166  INFO 14332 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-02-12 11:52:12.168  INFO 14332 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-02-12 11:53:03.264  INFO 14332 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Registering user: com.kedar.moviecollection.entity.User@2930c01
+2025-02-12 11:53:25.420  INFO 14332 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:53:25.720  INFO 14332 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:53:53.089  INFO 14332 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 11:55:14.915  INFO 14332 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 11:55:55.648  INFO 14332 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching actor by id: 17
+2025-02-12 11:55:55.682  INFO 14332 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching actor by id: 1
+2025-02-12 11:55:55.682  INFO 14332 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching actor by id: 5
+2025-02-12 11:55:55.694  INFO 14332 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Creating movie: Movie [id=null, name=JAB WE MET, date=2025-02-18, category=DRAMA, description=Nice, rating=8.7, cast=Actor [actor_id=5, actor_name=Clancy Brown]Actor [actor_id=17, actor_name=John Fiedler]Actor [actor_id=1, actor_name=Morgan Freeman]]
+2025-02-12 11:55:55.790  INFO 14332 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:55:55.811  INFO 14332 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:03.182  INFO 14332 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=26, name=JAB WE MET, date=2025-02-18, category=DRAMA, description=Nice, rating=8.7, cast=Actor [actor_id=1, actor_name=Morgan Freeman]Actor [actor_id=5, actor_name=Clancy Brown]Actor [actor_id=17, actor_name=John Fiedler]]
+2025-02-12 11:56:13.711  INFO 14332 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:13.720  INFO 14332 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:15.890  INFO 14332 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=26, name=JAB WE MET, date=2025-02-18, category=DRAMA, description=Nice, rating=8.7, cast=Actor [actor_id=17, actor_name=John Fiedler]Actor [actor_id=1, actor_name=Morgan Freeman]Actor [actor_id=5, actor_name=Clancy Brown]]
+2025-02-12 11:56:29.842  WARN 14332 --- [http-nio-8080-exec-7] o.springframework.validation.DataBinder  : Skipping URI variable 'id' because request contains bind value with same name.
+2025-02-12 11:56:29.849  INFO 14332 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Updating movie: Movie [id=26, name=JAB WE MET 2, date=2025-02-18, category=DRAMA, description=Nice, rating=8.7, cast=]
+2025-02-12 11:56:29.929  INFO 14332 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 11:56:33.465  INFO 14332 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=26, name=JAB WE MET 2, date=2025-02-18, category=DRAMA, description=Nice, rating=8.7, cast=]
+2025-02-12 11:56:33.481  INFO 14332 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching actor by id: 3
+2025-02-12 11:56:33.482  INFO 14332 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching actor by id: 5
+2025-02-12 11:56:33.498  INFO 14332 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Updating movie: Movie [id=26, name=JAB WE MET 2, date=2025-02-18, category=DRAMA, description=Nice, rating=8.7, cast=Actor [actor_id=5, actor_name=Clancy Brown]Actor [actor_id=3, actor_name=Bob Gunton]]
+2025-02-12 11:56:33.545  INFO 14332 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:33.561  INFO 14332 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:41.941  INFO 14332 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Deleting movie with id: 26
+2025-02-12 11:56:42.035  INFO 14332 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:42.040  INFO 14332 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:55.797  INFO 14332 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:55.801  INFO 14332 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching movies by name: Lion
+2025-02-12 11:56:59.723  INFO 14332 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:56:59.730  INFO 14332 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:12.819  INFO 14332 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:12.819  INFO 14332 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:31.553  INFO 14332 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:31.559  INFO 14332 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:42.668  INFO 14332 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:42.671  INFO 14332 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:57.509  INFO 14332 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:57:57.516  INFO 14332 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:58:02.005  INFO 14332 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:58:02.011  INFO 14332 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 11:58:27.686  INFO 14332 --- [RMI TCP Connection(17)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-02-12 11:58:27.738  INFO 14332 --- [RMI TCP Connection(17)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-02-12 11:58:27.745  INFO 14332 --- [RMI TCP Connection(17)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 11:58:27.753  INFO 14332 --- [RMI TCP Connection(17)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-02-12 11:58:27.761  INFO 14332 --- [RMI TCP Connection(17)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-02-12 14:29:21.828  INFO 22024 --- [restartedMain] c.k.m.MovieCollectionApplication         : Starting MovieCollectionApplication using Java 21.0.4 on LTIN562370 with PID 22024 (C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master\target\classes started by 2376738 in C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master)
+2025-02-12 14:29:21.832  INFO 22024 --- [restartedMain] c.k.m.MovieCollectionApplication         : No active profile set, falling back to default profiles: default
+2025-02-12 14:29:21.902  INFO 22024 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-02-12 14:29:21.903  INFO 22024 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-02-12 14:29:23.178  INFO 22024 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 14:29:23.180  INFO 22024 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-12 14:29:23.196  INFO 22024 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 0 JDBC repository interfaces.
+2025-02-12 14:29:23.205  INFO 22024 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 14:29:23.207  INFO 22024 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-12 14:29:23.214  INFO 22024 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 JPA repository interfaces.
+2025-02-12 14:29:24.037  INFO 22024 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-02-12 14:29:24.064  INFO 22024 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-12 14:29:24.065  INFO 22024 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2025-02-12 14:29:24.155  INFO 22024 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-12 14:29:24.157  INFO 22024 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2251 ms
+2025-02-12 14:29:24.471  INFO 22024 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-12 14:29:24.565  INFO 22024 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2025-02-12 14:29:24.852  INFO 22024 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-02-12 14:29:25.015  INFO 22024 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-02-12 14:29:25.293  INFO 22024 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-02-12 14:29:25.330  INFO 22024 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2025-02-12 14:29:26.410  INFO 22024 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-02-12 14:29:26.421  INFO 22024 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 14:29:26.472  INFO 22024 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-02-12 14:29:26.484  INFO 22024 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: a080d472-7627-4514-80de-8febf7926f26
+
+2025-02-12 14:29:26.737  INFO 22024 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@70b7b461, org.springframework.security.web.context.SecurityContextPersistenceFilter@2b8624bb, org.springframework.security.web.header.HeaderWriterFilter@6dc1328, org.springframework.security.web.csrf.CsrfFilter@29a82207, org.springframework.security.web.authentication.logout.LogoutFilter@5dfd4014, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@d69ee1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5241c839, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@186ae7c1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2b5a5af4, org.springframework.security.web.session.SessionManagementFilter@19d997f, org.springframework.security.web.access.ExceptionTranslationFilter@5599afae, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@65d1518]
+2025-02-12 14:29:26.820  WARN 22024 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-12 14:29:27.065  INFO 22024 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-02-12 14:29:27.205  INFO 22024 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2025-02-12 14:29:27.802  INFO 22024 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2025-02-12 14:29:27.882  INFO 22024 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-02-12 14:29:27.898  INFO 22024 --- [restartedMain] c.k.m.MovieCollectionApplication         : Started MovieCollectionApplication in 6.504 seconds (JVM running for 7.6)
+2025-02-12 14:29:29.039  INFO 22024 --- [RMI TCP Connection(4)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-12 14:29:29.039  INFO 22024 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-02-12 14:29:29.054  INFO 22024 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+2025-02-12 14:30:17.786  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:18.166  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:25.730  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=10, name=The Lion King, date=1995-01-20, category=Animation, description=Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself., rating=8.5, cast=Actor [actor_id=2, actor_name=Tim Robbins]Actor [actor_id=23, actor_name=Sean Astin]]
+2025-02-12 14:30:27.619  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:27.632  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:29.492  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 14:30:30.780  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:30.793  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:40.512  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:40.524  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:41.788  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:41.788  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:43.843  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:43.852  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:45.454  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:45.471  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:51.297  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:51.309  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching movies by name: Lion
+2025-02-12 14:30:54.664  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:54.672  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching movies by name: action
+2025-02-12 14:30:55.890  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:30:55.899  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:00.842  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:00.849  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching movies by category: action
+2025-02-12 14:31:04.074  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:04.086  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching movies by name: drama
+2025-02-12 14:31:09.585  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:09.597  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching movies by category: drama
+2025-02-12 14:31:20.383  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:20.391  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching movies by category: thriller
+2025-02-12 14:31:26.891  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:26.901  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching movies by actor: the
+2025-02-12 14:31:28.454  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:28.466  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:33.040  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:33.047  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching movies by actor: the
+2025-02-12 14:31:36.706  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:36.715  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:43.984  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:43.988  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching movies by category: action
+2025-02-12 14:31:52.780  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:52.792  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching movies by category: adventure
+2025-02-12 14:31:56.092  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:31:56.097  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:10.988  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:10.988  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:37.895  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=1, name=The Shawshank Redemption, date=1995-03-10, category=Drama, description=Two imprisoned men's bond over a number of years, finding solace and eventual redemption through acts of common decency., rating=9.3, cast=]
+2025-02-12 14:32:41.232  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:41.243  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:43.295  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=6, name=Pulp Fiction, date=1995-04-14, category=Crime, description=The lives of two mob hitmens, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption., rating=8.9, cast=]
+2025-02-12 14:32:47.535  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:47.543  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:49.189  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=8, name=The Matrix, date=1999-09-03, category=Sci-fi, description=When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the Life., rating=8.7, cast=Actor [actor_id=11, actor_name=Christian Bale]Actor [actor_id=3, actor_name=Bob Gunton]Actor [actor_id=5, actor_name=Clancy Brown]Actor [actor_id=14, actor_name=Michael Caine]]
+2025-02-12 14:32:51.920  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:51.926  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:53.056  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=10, name=The Lion King, date=1995-01-20, category=Animation, description=Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself., rating=8.5, cast=Actor [actor_id=23, actor_name=Sean Astin]Actor [actor_id=2, actor_name=Tim Robbins]]
+2025-02-12 14:32:56.972  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:32:56.979  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:07.972  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:07.978  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:13.989  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:13.994  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching movies by name: Lion
+2025-02-12 14:33:18.711  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:18.717  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching movies by category: drama
+2025-02-12 14:33:20.058  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:20.063  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:24.999  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:25.001  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching movies by actor: ro
+2025-02-12 14:33:27.564  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:33:27.568  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:34:40.315  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:34:40.317  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:20.259  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:20.270  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:23.132  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=10, name=The Lion King, date=1995-01-20, category=Animation, description=Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself., rating=8.5, cast=Actor [actor_id=2, actor_name=Tim Robbins]Actor [actor_id=23, actor_name=Sean Astin]]
+2025-02-12 14:36:24.388  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:24.389  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:26.109  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 14:36:40.600  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching actor by id: 3
+2025-02-12 14:36:40.619  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching actor by id: 6
+2025-02-12 14:36:40.622  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Creating movie: Movie [id=null, name=JAB WE MET, date=2025-03-06, category=DRAMA, description=Nice, rating=0.0, cast=Actor [actor_id=3, actor_name=Bob Gunton]Actor [actor_id=6, actor_name=Marlon Brando]]
+2025-02-12 14:36:40.698  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:40.705  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:44.204  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=27, name=JAB WE MET, date=2025-03-06, category=DRAMA, description=Nice, rating=0.0, cast=Actor [actor_id=6, actor_name=Marlon Brando]Actor [actor_id=3, actor_name=Bob Gunton]]
+2025-02-12 14:36:47.546  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:47.550  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:49.693  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=27, name=JAB WE MET, date=2025-03-06, category=DRAMA, description=Nice, rating=0.0, cast=Actor [actor_id=3, actor_name=Bob Gunton]Actor [actor_id=6, actor_name=Marlon Brando]]
+2025-02-12 14:36:53.866  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:53.872  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:56.922  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Deleting movie with id: 27
+2025-02-12 14:36:56.996  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:36:56.996  INFO 22024 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:37:12.061  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:37:12.069  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:39:37.019  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:39:37.019  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:41:28.277  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:41:28.282  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:41:53.560  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=4, name=12 Angry Men, date=1960-04-01, category=Crime, description=A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence., rating=9.0, cast=Actor [actor_id=19, actor_name=E.G. Marshall]Actor [actor_id=17, actor_name=John Fiedler]Actor [actor_id=18, actor_name=Lee J. Cobb]Actor [actor_id=16, actor_name=Martin Balsam]Actor [actor_id=20, actor_name=Jack Klugman]]
+2025-02-12 14:41:58.985  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:41:58.990  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:00.783  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=7, name=Inception, date=2010-08-30, category=Action, description=A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., rating=8.8, cast=Actor [actor_id=33, actor_name=Elliot Page]Actor [actor_id=32, actor_name=Joseph Gordon-Levitt]Actor [actor_id=31, actor_name=Leonardo DiCaprio]Actor [actor_id=35, actor_name=Ken Watanabe]Actor [actor_id=34, actor_name=Tom Hardy]]
+2025-02-12 14:42:04.750  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:04.753  INFO 22024 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:06.685  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=10, name=The Lion King, date=1995-01-20, category=Animation, description=Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself., rating=8.5, cast=Actor [actor_id=23, actor_name=Sean Astin]Actor [actor_id=2, actor_name=Tim Robbins]]
+2025-02-12 14:42:09.753  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:09.756  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:17.246  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:17.249  INFO 22024 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching movies by name: ro
+2025-02-12 14:42:21.354  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:21.363  INFO 22024 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching movies by name: Lion
+2025-02-12 14:42:26.407  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:26.414  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching movies by category: drama
+2025-02-12 14:42:27.630  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:27.638  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:29.129  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:29.134  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:30.437  WARN 22024 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list&orderBy=name"]
+2025-02-12 14:42:32.442  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:32.448  INFO 22024 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:33.567  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:33.567  INFO 22024 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:34.895  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:34.900  INFO 22024 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:36.576  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:36.582  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:38.646  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:42:38.651  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:44:11.888  INFO 22024 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=3, name=The Dark Knight, date=2008-07-25, category=Action, description=When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept it., rating=9.0, cast=Actor [actor_id=1, actor_name=Morgan Freeman]Actor [actor_id=4, actor_name=William Sadler]Actor [actor_id=9, actor_name=Richard S. Castellano]]
+2025-02-12 14:44:18.147  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:44:18.148  INFO 22024 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:44:28.710  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:44:28.719  INFO 22024 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:48:44.395  INFO 22024 --- [RMI TCP Connection(32)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-02-12 14:48:44.418  INFO 22024 --- [RMI TCP Connection(32)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-02-12 14:48:44.420  INFO 22024 --- [RMI TCP Connection(32)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 14:48:44.424  INFO 22024 --- [RMI TCP Connection(32)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-02-12 14:48:44.433  INFO 22024 --- [RMI TCP Connection(32)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-02-12 14:49:30.194  INFO 24624 --- [restartedMain] c.k.m.MovieCollectionApplication         : Starting MovieCollectionApplication using Java 21.0.4 on LTIN562370 with PID 24624 (C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master\target\classes started by 2376738 in C:\Users\2376738\Documents\New folder\Exceptionprakashh\Movie-Collection-master)
+2025-02-12 14:49:30.197  INFO 24624 --- [restartedMain] c.k.m.MovieCollectionApplication         : No active profile set, falling back to default profiles: default
+2025-02-12 14:49:30.279  INFO 24624 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-02-12 14:49:30.279  INFO 24624 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-02-12 14:49:31.218  INFO 24624 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 14:49:31.219  INFO 24624 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-02-12 14:49:31.237  INFO 24624 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 JDBC repository interfaces.
+2025-02-12 14:49:31.254  INFO 24624 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-02-12 14:49:31.256  INFO 24624 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-12 14:49:31.266  INFO 24624 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2025-02-12 14:49:32.259  INFO 24624 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-02-12 14:49:32.271  INFO 24624 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-12 14:49:32.272  INFO 24624 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2025-02-12 14:49:32.484  INFO 24624 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-12 14:49:32.484  INFO 24624 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2203 ms
+2025-02-12 14:49:32.821  INFO 24624 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-12 14:49:32.879  INFO 24624 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2025-02-12 14:49:33.155  INFO 24624 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-02-12 14:49:33.347  INFO 24624 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-02-12 14:49:33.655  INFO 24624 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-02-12 14:49:33.670  INFO 24624 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2025-02-12 14:49:34.436  INFO 24624 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-02-12 14:49:34.445  INFO 24624 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 14:49:34.481  INFO 24624 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-02-12 14:49:34.492  INFO 24624 --- [restartedMain] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: bb23d0f5-ed6f-4156-a16c-79888a8871a4
+
+2025-02-12 14:49:34.817  INFO 24624 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@61f0aa7c, org.springframework.security.web.context.SecurityContextPersistenceFilter@24fe60e4, org.springframework.security.web.header.HeaderWriterFilter@79f95d31, org.springframework.security.web.csrf.CsrfFilter@77e0dfb7, org.springframework.security.web.authentication.logout.LogoutFilter@33d22e33, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4d6a9728, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@54762605, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4fb8a574, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7c843cbd, org.springframework.security.web.session.SessionManagementFilter@2148384e, org.springframework.security.web.access.ExceptionTranslationFilter@35269f2c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@13213cc5]
+2025-02-12 14:49:34.891  WARN 24624 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-12 14:49:35.041  INFO 24624 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2025-02-12 14:49:35.132  INFO 24624 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2025-02-12 14:49:35.539  INFO 24624 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2025-02-12 14:49:35.703  INFO 24624 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-02-12 14:49:35.717  INFO 24624 --- [restartedMain] c.k.m.MovieCollectionApplication         : Started MovieCollectionApplication in 5.95 seconds (JVM running for 6.89)
+2025-02-12 14:49:36.363  INFO 24624 --- [RMI TCP Connection(8)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-12 14:49:36.363  INFO 24624 --- [RMI TCP Connection(8)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-02-12 14:49:36.366  INFO 24624 --- [RMI TCP Connection(8)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-02-12 14:51:24.844  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Registering user: com.kedar.moviecollection.entity.User@691929b5
+2025-02-12 14:51:37.626  INFO 24624 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:51:37.795  INFO 24624 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:51:51.570  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 14:52:07.512  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Creating actor: Actor [actor_id=null, actor_name=Robert Downey Jr]
+2025-02-12 14:52:07.589  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 14:53:02.076  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching actor by id: 53
+2025-02-12 14:53:02.094  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching actor by id: 50
+2025-02-12 14:53:02.094  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching actor by id: 46
+2025-02-12 14:53:02.112  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Creating movie: Movie [id=null, name=JAB WE MET, date=2025-02-04, category=DRAMA, description=Nice, rating=25.0, cast=Actor [actor_id=46, actor_name=Rowan Atkinson]Actor [actor_id=53, actor_name=Robert Downey Jr]Actor [actor_id=50, actor_name=Whoopi Goldberg]]
+2025-02-12 14:53:02.160  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:02.175  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:12.836  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=28, name=JAB WE MET, date=2025-02-04, category=DRAMA, description=Nice, rating=25.0, cast=Actor [actor_id=53, actor_name=Robert Downey Jr]Actor [actor_id=50, actor_name=Whoopi Goldberg]Actor [actor_id=46, actor_name=Rowan Atkinson]]
+2025-02-12 14:53:19.272  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:19.294  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:21.835  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=28, name=JAB WE MET, date=2025-02-04, category=DRAMA, description=Nice, rating=25.0, cast=Actor [actor_id=53, actor_name=Robert Downey Jr]Actor [actor_id=46, actor_name=Rowan Atkinson]Actor [actor_id=50, actor_name=Whoopi Goldberg]]
+2025-02-12 14:53:32.638  WARN 24624 --- [http-nio-8080-exec-5] o.springframework.validation.DataBinder  : Skipping URI variable 'id' because request contains bind value with same name.
+2025-02-12 14:53:32.643  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Updating movie: Movie [id=28, name=JAB WE MET 3, date=2025-02-04, category=DRAMA, description=Nice movieeee, rating=25.0, cast=]
+2025-02-12 14:53:32.694  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all actors
+2025-02-12 14:53:38.518  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=28, name=JAB WE MET 3, date=2025-02-04, category=DRAMA, description=Nice movieeee, rating=25.0, cast=]
+2025-02-12 14:53:38.524  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching actor by id: 53
+2025-02-12 14:53:38.531  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching actor by id: 50
+2025-02-12 14:53:38.535  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching actor by id: 49
+2025-02-12 14:53:38.539  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Updating movie: Movie [id=28, name=JAB WE MET 3, date=2025-02-04, category=DRAMA, description=Nice movieeee, rating=25.0, cast=Actor [actor_id=53, actor_name=Robert Downey Jr]Actor [actor_id=50, actor_name=Whoopi Goldberg]Actor [actor_id=49, actor_name=Jim Cummings]]
+2025-02-12 14:53:38.561  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:38.574  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:45.423  INFO 24624 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=28, name=JAB WE MET 3, date=2025-02-04, category=DRAMA, description=Nice movieeee, rating=25.0, cast=Actor [actor_id=50, actor_name=Whoopi Goldberg]Actor [actor_id=53, actor_name=Robert Downey Jr]Actor [actor_id=49, actor_name=Jim Cummings]]
+2025-02-12 14:53:46.637  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:46.657  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:50.532  INFO 24624 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Deleting movie with id: 28
+2025-02-12 14:53:50.579  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:50.579  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:53.533  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=1, name=The Shawshank Redemption, date=1995-03-10, category=Drama, description=Two imprisoned men's bond over a number of years, finding solace and eventual redemption through acts of common decency., rating=9.3, cast=]
+2025-02-12 14:53:56.596  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:56.612  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:53:58.219  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=6, name=Pulp Fiction, date=1995-04-14, category=Crime, description=The lives of two mob hitmens, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption., rating=8.9, cast=]
+2025-02-12 14:54:02.989  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:03.004  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:04.735  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=8, name=The Matrix, date=1999-09-03, category=Sci-fi, description=When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the Life., rating=8.7, cast=Actor [actor_id=3, actor_name=Bob Gunton]Actor [actor_id=5, actor_name=Clancy Brown]Actor [actor_id=14, actor_name=Michael Caine]Actor [actor_id=11, actor_name=Christian Bale]]
+2025-02-12 14:54:06.704  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:06.710  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:07.660  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=6, name=Pulp Fiction, date=1995-04-14, category=Crime, description=The lives of two mob hitmens, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption., rating=8.9, cast=]
+2025-02-12 14:54:08.627  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:08.634  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:09.515  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=4, name=12 Angry Men, date=1960-04-01, category=Crime, description=A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence., rating=9.0, cast=Actor [actor_id=16, actor_name=Martin Balsam]Actor [actor_id=19, actor_name=E.G. Marshall]Actor [actor_id=17, actor_name=John Fiedler]Actor [actor_id=18, actor_name=Lee J. Cobb]Actor [actor_id=20, actor_name=Jack Klugman]]
+2025-02-12 14:54:14.452  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:14.474  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:21.007  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:21.010  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching movies by name: Lion
+2025-02-12 14:54:29.460  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:29.463  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching movies by category: drama
+2025-02-12 14:54:32.999  INFO 24624 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:33.009  INFO 24624 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:41.245  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:41.247  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching movies by actor: ro
+2025-02-12 14:54:44.584  INFO 24624 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:44.593  INFO 24624 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:46.695  INFO 24624 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:46.700  INFO 24624 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:51.174  WARN 24624 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "list&orderBy=name"]
+2025-02-12 14:54:53.019  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:53.038  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:54.112  INFO 24624 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:54.112  INFO 24624 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:55.865  INFO 24624 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:55.871  INFO 24624 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:57.432  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:57.442  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:59.049  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:54:59.056  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:55:07.550  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:55:07.559  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching movies by name: Lion
+2025-02-12 14:55:12.100  INFO 24624 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 14:55:12.109  INFO 24624 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:02:32.043  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:02:32.059  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:02:55.194  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=3, name=The Dark Knight, date=2008-07-25, category=Action, description=When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept it., rating=9.0, cast=Actor [actor_id=1, actor_name=Morgan Freeman]Actor [actor_id=9, actor_name=Richard S. Castellano]Actor [actor_id=4, actor_name=William Sadler]]
+2025-02-12 15:02:58.079  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:02:58.092  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:00.923  INFO 24624 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Movie found: Movie [id=10, name=The Lion King, date=1995-01-20, category=Animation, description=Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself., rating=8.5, cast=Actor [actor_id=2, actor_name=Tim Robbins]Actor [actor_id=23, actor_name=Sean Astin]]
+2025-02-12 15:03:03.448  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:03.448  INFO 24624 --- [http-nio-8080-exec-2] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:08.511  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:08.515  INFO 24624 --- [http-nio-8080-exec-3] c.k.m.service.AppServiceImpl             : Fetching movies by name: Lion
+2025-02-12 15:03:15.196  INFO 24624 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:15.200  INFO 24624 --- [http-nio-8080-exec-4] c.k.m.service.AppServiceImpl             : Fetching movies by category: drama
+2025-02-12 15:03:23.615  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:23.621  INFO 24624 --- [http-nio-8080-exec-6] c.k.m.service.AppServiceImpl             : Fetching movies by category: adventure
+2025-02-12 15:03:25.330  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:25.338  INFO 24624 --- [http-nio-8080-exec-5] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:28.137  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:28.142  INFO 24624 --- [http-nio-8080-exec-10] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:31.711  INFO 24624 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:31.715  INFO 24624 --- [http-nio-8080-exec-7] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:33.973  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:33.981  INFO 24624 --- [http-nio-8080-exec-8] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:37.259  INFO 24624 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:37.266  INFO 24624 --- [http-nio-8080-exec-9] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:40.258  INFO 24624 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:40.265  INFO 24624 --- [http-nio-8080-exec-1] c.k.m.service.AppServiceImpl             : Fetching all movies
+2025-02-12 15:03:56.646  INFO 24624 --- [RMI TCP Connection(26)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-02-12 15:03:56.672  INFO 24624 --- [RMI TCP Connection(26)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2025-02-12 15:03:56.688  INFO 24624 --- [RMI TCP Connection(26)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-12 15:03:56.688  INFO 24624 --- [RMI TCP Connection(26)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-02-12 15:03:56.703  INFO 24624 --- [RMI TCP Connection(26)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
